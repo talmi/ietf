@@ -21,7 +21,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="std" docName="draft-ietf-ippm-ioam-flags-02" ipr="trust200902">
+<rfc category="std" docName="draft-ietf-ippm-ioam-flags-03" ipr="trust200902">
   <front>
     <title abbrev="IOAM Flags">In-situ OAM Flags</title>
 
